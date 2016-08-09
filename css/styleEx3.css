@@ -1,0 +1,20 @@
+body{
+	background-image: url(../img/Gradient.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+nav ul li{
+	list-style-image: url(../img/star-img.png);
+	
+}
+nav ul li a{
+	color:blue;
+	text-decoration: none;
+}
+nav{
+	color:blue;
+	display:inline-block;
+	background-image: url(../img/finish-line.jpg);
+	background-size:contain;
+	
+}
